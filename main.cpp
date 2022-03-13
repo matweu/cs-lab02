@@ -10,7 +10,6 @@ int main()
     cout << "A + B = " << a + b << '\n'
          << "A - B = " << a - b << '\n'
          << "A * B = " << a * b << '\n'
-         << "A % B = " << a / b << '\n'
-         << "Last work in ALICE,commit";
-    return 0;
+         << "A / B = " << a / b << '\n';
+
 }
